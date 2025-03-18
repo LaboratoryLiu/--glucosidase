@@ -1,1 +1,2 @@
-# --glucosidase
+- **Chemprop** 的详细使用指南见 [Chemprop GitHub](https://github.com/chemprop/chemprop)。
+- **DDI-GCN** 的详细使用指南见 [DDI-GCN GitHub](https://github.com/LabWeng/DDI-GCN)。
